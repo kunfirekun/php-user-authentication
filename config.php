@@ -1,7 +1,7 @@
 <?php
 
 $host = 'localhost';
-$db = 'motherload';
+$db = '';
 $user = 'root';
 $password = '';
 
