@@ -7,7 +7,7 @@ try {
 	$pdo = new PDO($dsn, $user, $password);
 
 	if ($pdo) {
-        // insert a single publisher
+        // insert a single users
         $name = 'Macmillan';
         //obtained from engine ipaddress function
         $ip_address= getUserIpAddr();
